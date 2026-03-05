@@ -40,7 +40,7 @@ logging:
 # 安全配置
 safety:
   # 删除操作需要确认
-  require_confirm_for_delete: false
+  require_confirm_for_delete: true
   # 最大删除数量限制
   max_delete_count: 10
   # 更新后验证文件
