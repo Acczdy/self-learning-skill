@@ -12,7 +12,7 @@ description: |
   - 清理过时的配置和记忆
 
   Triggers: 自我学习、记忆更新、配置优化、Agent 成长、整理记忆、记录学习、纠正错误
-version: 3.0.0
+version: 3.0.1
 author: Acczdy
 license: MIT
 repository: https://github.com/Acczdy/self-learning-skill
